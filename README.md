@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" height="500px" width="700px"  alt="Persoon typing code">
+  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif"   alt="Persoon typing code">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahazzot</h1>
