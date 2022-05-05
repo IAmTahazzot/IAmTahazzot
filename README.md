@@ -1,7 +1,3 @@
-<p align='center'>
-  <img src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif"   alt="Persoon typing code">
-</p>
-
 <h1 align="center">Hi 👋, I'm Tahazzot</h1>
 <h3 align="center">A full stack web developer</h3>
 
