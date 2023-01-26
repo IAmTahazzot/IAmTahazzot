@@ -10,6 +10,7 @@
 - 🎨 FrontEnd Design with React, Vue, Angular, Svelte, Gatsby, Tailwind, Bootstrap etc.
 - 💻 BackEnd Development with Node(Expressjs), Laravel, PHP, WordPress
 - 📊 Relational Database Management with SQL, PostgreSQL, SQLite, MS SQL Server etc.
+- 📩 Contact: freelancer.tahazzot@gmail.com
 
 ### Things I love:
 
