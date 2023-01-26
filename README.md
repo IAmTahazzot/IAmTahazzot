@@ -2,8 +2,6 @@
   <img align="center" src="./whoami.png" />
 </p>
 
-
-
 ### What do I do?
 
 - ⚗️ Learning Nodejs & Django.
@@ -11,13 +9,6 @@
 - 💻 BackEnd Development with Node(Expressjs), Laravel, PHP, WordPress
 - 📊 Relational Database Management with SQL, PostgreSQL, SQLite, MS SQL Server etc.
 - 📩 Contact: freelancer.tahazzot@gmail.com
-
-### Things I love:
-
-- 🚴 Journey
-- 🧩 Solving problems!
-- 🩻 Experiment new things that fails all the time :)
-- 📖 Reading
 
 
 ### Languages and Tools:
