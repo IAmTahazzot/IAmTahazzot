@@ -6,7 +6,7 @@
 
 - ⚗️ Learning Nodejs & Django.
 - 🎨 FrontEnd Design with React, Vue, Angular, Svelte, Gatsby, Tailwind, Bootstrap etc.
-- 💻 BackEnd Development with Node(Expressjs), Laravel, PHP, WordPress
+- 💻 BackEnd Development with Node(Expressjs), Laravel, PHP, WordPress, btw I also love NextJS :)
 - 📊 Relational Database Management with SQL, PostgreSQL, SQLite, MS SQL Server etc.
 - 📩 Contact: freelancer.tahazzot@gmail.com
 
