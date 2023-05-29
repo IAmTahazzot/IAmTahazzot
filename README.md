@@ -2,12 +2,14 @@
   <img align="center" src="./whoami.png" />
 </p>
 
-### What do I do?
+### Skills:
 
+- ❄️ I love Illustration & PhotoShop composition.
 - ⚗️ Learning Nodejs & Django.
 - 🎨 FrontEnd Design with React, Vue, Angular, Svelte, Gatsby, Tailwind, Bootstrap etc.
 - 💻 BackEnd Development with Node(ExpressJS), Laravel 10, PHP, WordPress, btw I also love NextJS :)
 - 📊 Relational Database Management with SQL, PostgreSQL, SQLite, MS SQL Server etc.
+- 💫 **Extra Skills:** Git, 100WPM, Figma, XD, Docker, Unix Commands, Singing and many more... :)
 - 📩 Contact: freelancer.tahazzot@gmail.com
 
 
