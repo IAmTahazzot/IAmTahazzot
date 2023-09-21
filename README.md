@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="./whoami.png" />
+  <img align="center" src="./me.png" />
 </p>
 <!-- 
 ### Skills:
