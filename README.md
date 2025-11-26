@@ -1,3 +1,3 @@
-I'm coding so much. So hang on, My portfolio and this profile will be finished in 12-12-2025.
+My portfolio and GitHub profile README are currently in development. The final version will be published by _12 December 2025_.
 
-<sub>Thanks</sub>
+**<sub>Thanks</sub>**
